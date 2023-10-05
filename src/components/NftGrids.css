@@ -1,0 +1,83 @@
+.nft-items-section {
+    padding: 20px;
+}
+
+.nft-item-grid {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+    display: grid;
+    grid-template-columns: repeat(4, 300px); /* Set the number of columns and their width */
+    grid-gap: 50px;
+    padding-left: 4.5vw;
+}
+
+.nft-item-grid-container {
+    height: 400px;
+    width: 300px;
+    position: relative;
+    background-color: #000000;
+    overflow: hidden;
+    border-radius: 20px;
+    transition: transform 0.3s ease;
+}
+
+.nft-item-grid-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.nft-item-grid-container:hover .nft-item-grid-img {
+    transform: scale(1.2);
+    
+}
+
+.nft-item-grid-container:hover .nft-item-grid-button {
+    bottom: 0px;
+}
+
+.nft-item-grid-container:hover .nft-item-grid-details {
+    bottom: -70px;
+}
+
+.nft-item-grid-details {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 300px;
+    transition: all 0.3s ease-in-out;
+}
+
+.nft-item-grid-details h3 {
+    padding: 10px;
+    background-color: #000000;
+    color: #fff;
+}
+
+.nft-item-grid-details h4 {
+    padding: 5px;
+    background-color: #000000;
+    color: #808080;
+}
+
+.nft-item-grid-button {
+    position:absolute;
+    left: 0;
+    bottom: -70px;
+    width: 300px;
+    height: 70px;
+    background-color: #fff;
+    color: #282C35;;
+    border: none;
+    border-radius: 12px;
+    padding: 20px 20px;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s ease, bottom 0.3s ease-in;
+  }
+  
+.nft-item-grid-button:hover {
+    background-color: rgba(0,0,0,0.6);
+    color:#fff
+}

@@ -1,0 +1,14 @@
+.info-socials {
+    margin-left: auto;
+}
+
+.info-socials a {
+    margin-right: 50px;
+}
+
+.info-socials-icon {
+    width: 18px; 
+    height: 18px; 
+    transform: scale(1.5);
+    color: #fff;
+}

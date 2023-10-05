@@ -1,0 +1,12 @@
+.logo-img-header {
+    position: absolute;
+    object-fit:cover;
+    height:250px;
+    width: 250px;
+    border-radius: 20px;
+    background-color: #000000;
+    border: 5px solid #1f1f1f;
+    margin: auto;
+    left: 4vw;
+    top: 300px;
+}

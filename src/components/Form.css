@@ -1,0 +1,90 @@
+.form{
+    color: #fff;
+    padding: 100px;
+}
+
+.form h1 {
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+.form div {
+    
+    padding: auto;
+    margin-bottom: 40px;
+}
+
+.profile-img h3 {
+    width:auto;
+    margin-bottom: 20px;
+}
+
+.profile-img img {
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.banner-img h3 {
+    width:auto;
+    margin-bottom: 20px;
+}
+
+.banner-img img {
+    background-color: #403f3f;
+    height: 100px;
+    width: 200px;
+    cursor: pointer;
+}
+
+.textField h3 {
+    width:auto;
+    margin-bottom: 20px;
+}
+
+.weblink div, .instalink div, .twitterlink div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.weblink-logo, .instalink-logo, .twitterlink-logo  {
+    margin-right: 20px;
+    height: 20px;
+    width: 20px;
+    scale: 1.5;
+}
+
+
+#inputTextField, #inputWebLink, #inputInstaLink, #inputTwitterLink {
+    height: 40px;
+    width: 300px;
+    color: #ddd;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #1f1f1f;
+    border: 1px solid #403f3f;
+}
+
+#inputTextField::placeholder, #inputWebLink::placeholder, #inputInstaLink::placeholder, 
+#inputTwitterLink::placeholder{
+    color: #ddd;
+    font-size: 15px;
+}
+
+#inputTextField:hover, #inputWebLink:hover, #inputInstaLink:hover, #inputTwitterLink:hover {
+    border-color: #fff;
+}
+
+.label{
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.address{
+    color: #ddd;
+}
+
+

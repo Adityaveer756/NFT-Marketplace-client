@@ -1,0 +1,41 @@
+
+.text-info-top {
+    margin-top: 50px;
+    display: flex;
+    padding: 20px;
+    padding-left: 0px;
+    padding-bottom: 0;
+    align-items: center; 
+}
+
+.text-info-top h1 {
+    color: #fff;
+    margin-left: 4.5vw;
+}
+
+.text-info-bottom {
+    padding: 20px;
+    padding-left: 0px;
+}
+
+.text-info-bottom h3 {
+    text-align: justify;
+    padding-left: 4.5vw;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+.text-info-bottom-details {
+    display: flex;
+    padding-left: 4.5vw;
+    
+}
+
+.text-info-bottom-details-item{
+    color: #fff;
+    margin-right: 50px;
+}
+
+.text-info-bottom-details-item h4 {
+    color: #808080;
+}

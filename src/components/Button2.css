@@ -1,0 +1,41 @@
+.button-2 {
+    background-color: rgba(0,0,0,0.8);
+    color: #fff;
+    border: none;
+    border-radius: 12px;
+    padding: 20px 20px;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+.button-2:hover {
+    background-color: #fff;
+    color:#282C35;
+}
+
+.home-button-a {
+    position: absolute;
+    bottom:25px;
+    right:100px;
+}
+
+.home-button-b {
+    border-radius: 8px;
+    padding: 10px 10px;
+    font-size: 16px;
+    margin-left: auto;
+}
+
+.form-button {
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+
+.profile-button {
+    position: absolute;
+    bottom: 20px;
+    right: 70px;
+}
+

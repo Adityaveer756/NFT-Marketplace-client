@@ -1,0 +1,167 @@
+{
+    "nftData": [
+        {
+            "id":"1",
+            "items":"8",
+            "nftImage": "HapebeastBgImg.avif",
+            "nftLogo": "Hapebeast/logo.avif",
+            "nftName": "Hapebeast",
+            "artist": "John Smith",
+            "floorPrice": 0.1,
+            "nfts": ["1.avif","2.avif","3.avif","4.avif","5.avif","6.avif","7.avif","8.avif"]
+        },
+       
+        {
+            "id":"2",
+            "items":"8",
+            "nftImage": "CyberBrokerBgImg.avif",
+            "nftLogo": "Cyber Brokers/logo.avif",
+            "nftName": "Cyber Brokers",
+            "artist": "Ryan Douglas",
+            "floorPrice": 0.1,
+            "nfts": ["1.svg","2.svg","3.svg","4.svg","5.svg","6.svg","7.svg","8.svg"]
+        },
+       
+        {
+            "id":"3",
+            "items":"8",
+            "nftImage": "DoriBgImg.gif",
+            "nftLogo": "Dori/logo.webp",
+            "nftName": "Dori",
+            "artist": "Aditya Singh",
+            "floorPrice": 0.1,
+            "nfts": ["1.avif","2.avif","3.avif","4.avif","5.avif","6.avif","7.avif","8.avif"]
+        },
+        {
+            "id":"4",
+            "items":"8",
+            "nftImage": "EasyDemonClubBgImg.avif",
+            "nftLogo": "Easy Demon Club/logo.avif",
+            "nftName": "Easy Demon Club",
+            "artist": "John Ham",
+            "floorPrice": 0.1,
+            "nfts": ["1.avif","2.avif","3.avif","4.avif","5.avif","6.avif","7.avif","8.avif"]
+        },
+        {
+            "id":"5",
+            "items":"8",
+            "nftImage": "AzukiBgImg.avif",
+            "nftLogo": "Azuki/logo.avif",
+            "nftName": "Azuki",
+            "artist": "Han Lee",
+            "floorPrice": 0.1,
+            "nfts": ["1.avif","2.avif","3.avif","4.avif","5.avif","6.avif","7.avif","8.avif"]
+        },
+        {
+            "id":"6",
+            "items":"8",
+            "nftImage": "EonRiftGenesisBgImg.avif",
+            "nftLogo": "Eon Rift Genesis/logo.avif",
+            "nftName": "Eon Rift Genesis",
+            "artist": "henry Cavill",
+            "floorPrice": 0.1,
+            "nfts": ["1.avif","2.avif","3.avif","4.avif","5.avif","6.avif","7.avif","8.avif"]
+        },
+       {
+            "id":"7",
+            "items":"8",
+            "nftImage": "ZedRunBgImg.avif",
+            "nftLogo": "Zed Run/logo.avif",
+            "nftName": "Zed Run",
+            "artist": "Aryan Singh",
+            "floorPrice": 0.1,
+            "nfts": ["1.avif","2.avif","3.avif","4.avif","5.avif","6.avif","7.avif","8.avif"]
+        },
+        {
+            "id":"8",
+            "items":"8",
+            "nftImage": "keraverseBgImg.avif",
+            "nftLogo": "Keraverse/logo.avif",
+            "nftName": "Keraverse",
+            "artist": "Adam Gillchrist",
+            "floorPrice": 0.1,
+            "nfts": ["1.avif","2.avif","3.avif","4.avif","5.avif","6.avif","7.avif","8.avif"]
+        },
+        {
+            "id":"9",
+            "items":"8",
+            "nftImage": "XocietyFrontierBgImg.avif",
+            "nftLogo": "Xociety Frontier/logo.avif",
+            "nftName": "Xociety Frontier",
+            "artist": "Dominic fernandez",
+            "floorPrice": 0.1,
+            "nfts": ["1.avif","2.avif","3.avif","4.avif","5.avif","6.avif","7.avif","8.avif"]
+        },
+        {
+            "id":"10",
+            "items":"8",
+            "nftImage": "AurasBgImg.avif",
+            "nftLogo": "Auras/logo.avif",
+            "nftName": "Auras",
+            "artist": "Mathew Mccaunagay",
+            "floorPrice": 0.1,
+            "nfts": ["1.avif","2.avif","3.avif","4.avif","5.avif","6.avif","7.avif","8.avif"]
+        },
+        {
+            "id":"11",
+            "items":"8",
+            "nftImage": "BehindTheVeilBgImg.avif",
+            "nftLogo": "Behind The Veil/logo.webp",
+            "nftName": "Behind The Veil",
+            "artist": "Pattrick Bateman",
+            "floorPrice": 0.1,
+            "nfts": ["1.avif","2.avif","3.avif","4.avif","5.avif","6.avif","7.avif","8.avif"]
+        },
+        {
+            "id":"12",
+            "items":"8",
+            "nftImage": "OdeToDreamsBgImg.avif",
+            "nftLogo": "Ode To Dreams/logo.avif",
+            "nftName": "Ode To Dreams",
+            "artist": "Finn Clay",
+            "floorPrice": 0.1,
+            "nfts": ["1.avif","2.avif","3.avif","4.avif","5.avif","6.avif","7.avif","8.avif"]
+        },
+        {
+            "id":"13",
+            "items":"1",
+            "nftImage": "LordShivaBgImg.avif",
+            "nftLogo": "Lord Shiva/logo.avif",
+            "nftName": "Lord Shiva",
+            "artist": "Rahul Abroal",
+            "floorPrice": 0.1,
+            "nfts": ["1.avif"]
+        },
+        {
+            "id":"14",
+            "items":"1",
+            "nftImage": "XetherealCallingBgImg.avif",
+            "nftLogo": "Xethereal Calling/logo.avif",
+            "nftName": "Xethereal Calling",
+            "artist": "Enrique Iglesias",
+            "floorPrice": 0.1,
+            "nfts": ["1.avif"]
+        },
+        {
+            "id":"15",
+            "items":"1",
+            "nftImage": "VIPMonkeyBgImg.avif",
+            "nftLogo": "VIP Monkey/logo.avif",
+            "nftName": "VIP Monkey",
+            "artist": "Christiano",
+            "floorPrice": 0.1,
+            "nfts": ["1.avif"]
+        },
+        {
+            "id":"16",
+            "items":"1",
+            "nftImage": "WhimsicalCatsBgImg.avif",
+            "nftLogo": "Whimsical Cats/logo.avif",
+            "nftName": "Whimsical Cats",
+            "artist": "John Smith",
+            "floorPrice": 0.1,
+            "nfts": ["1.avif"]
+        }
+    
+    ]
+}
